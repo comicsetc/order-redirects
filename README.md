@@ -6,4 +6,5 @@
   /Merch
     index.html
   /Weekly
+    index.html
   README.md
