@@ -1,8 +1,9 @@
 /order-redirects
-  /week1
+  /PRH
     index.html
-  /week2
+  /Lunar
     index.html
-  /spring-launch
+  /Merch
     index.html
+  /Weekly
   README.md
